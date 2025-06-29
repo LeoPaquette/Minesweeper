@@ -65,7 +65,7 @@ Enter X coordinate: 3
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The board is represented using a 2D char array.
 - `'X'` indicates unrevealed cells, `'B'` is a bomb, and numbers (`'1'`–`'8'`) represent adjacent bomb counts.
