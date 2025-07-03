@@ -1,4 +1,4 @@
-# Minesweeper-Java
+# Minesweeper
 
 A console-based implementation of the classic **Minesweeper** game written in Java.  
 This project demonstrates object-oriented programming principles such as encapsulation, recursion, input validation, and 2D array manipulation.
